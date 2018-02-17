@@ -1,0 +1,35 @@
+{
+  "name": "ji18n",
+  "version": "1.0.0",
+  "description": "Internationalize JSON Objects",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wernovox/JI18N.git"
+  },
+  "keywords": [
+    "i18n",
+    "json-api",
+    "json",
+    "internationalization",
+    "json-i18n",
+    "json-internationalization"
+  ],
+  "author": "João Pedro Viana <snider@degiant.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wernovox/JI18N/issues"
+  },
+  "homepage": "https://github.com/wernovox/JI18N#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.18.0"
+  }
+}
